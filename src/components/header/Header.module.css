@@ -1,0 +1,14 @@
+.header {
+    width: 120vw;
+    height: 100px;
+    background: #201b3c;
+    align-items: center;
+    display: flex;
+}
+.logotipo {
+    float: left;
+    margin-left: 25px;
+    color: #00ff88;
+    font-size: 18pt;
+    width: 25vw;
+}

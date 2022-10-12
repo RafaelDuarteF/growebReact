@@ -1,0 +1,25 @@
+.avisoHeader {
+    height: 80px;
+    width: 100vw;
+    background: #352840;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: gainsboro;
+}
+.tipPlano {
+    color: #00ff88;
+    margin-right: 5px;
+}
+.prazoPlano {
+    margin-left: 5px;
+}
+.avisoHeader button {
+    margin-left: 25px;
+    color: #00ff88;
+    background: none;
+    border: 3px solid #00ff88;
+    width: 120px;
+    border-radius: 15px;
+    height: 50px;
+}
